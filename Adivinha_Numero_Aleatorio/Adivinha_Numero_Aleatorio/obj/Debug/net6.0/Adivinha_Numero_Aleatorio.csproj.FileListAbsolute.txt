@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\bin\Debug\net6.0\Adivinha_Numero_Aleatorio.exe
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\bin\Debug\net6.0\Adivinha_Numero_Aleatorio.deps.json
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\bin\Debug\net6.0\Adivinha_Numero_Aleatorio.runtimeconfig.json
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\bin\Debug\net6.0\Adivinha_Numero_Aleatorio.dll
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\bin\Debug\net6.0\Adivinha_Numero_Aleatorio.pdb
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.AssemblyInfo.cs
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.dll
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\refint\Adivinha_Numero_Aleatorio.dll
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.pdb
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\Adivinha_Numero_Aleatorio.genruntimeconfig.cache
+C:\Users\Acer\Desktop\Projetos\CSharp_Study\Adivinha_Numero_Aleatorio\Adivinha_Numero_Aleatorio\obj\Debug\net6.0\ref\Adivinha_Numero_Aleatorio.dll
